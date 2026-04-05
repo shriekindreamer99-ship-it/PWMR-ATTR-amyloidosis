@@ -1,0 +1,25 @@
+# Raw GWAS data (too large / not redistributable)
+*.gz
+*.tar
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# R temp
+.Rhistory
+.RData
+Rplots.pdf
+
+# Office files (manuscript/PPT versions not for repo)
+*.docx
+*.pptx
+*.xlsx
+
+# Large data
+HERMES2_GWAS_HF_EUR/
+ukbppp/
+coloc_data/
+HPA/
+dgidb/
